@@ -1,0 +1,16 @@
+livekit-agents==0.6.0
+livekit==0.11.0
+dashscope
+pyaudio
+opencv-python
+Pillow
+pydub
+#langchain
+#langchain-core
+#langchain-openai
+#langchain-community
+#langchain-experimental
+#langgraph
+#langserve[all]
+#langchain-cli
+#langsmith
